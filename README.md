@@ -1,4 +1,4 @@
 # MDU
 Revision repo
 <br>
-Author - Pratyush
+Author - Pratyush(Student)
